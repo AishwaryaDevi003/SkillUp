@@ -21,10 +21,12 @@ Clone the repository to your local machine.
 Install the required Python libraries by running pip install -r requirements.txt.
 Download the MSFT stock price dataset from Kaggle (or use your own financial dataset) and place it in the project directory.
 Run the Jupyter notebooks or Python scripts for feature engineering, model training, and model evaluation.
-Contributors
+
+## Contributors
 Aishwarya Devi(https://github.com/AishwaryaDevi003) - Project Lead
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE]file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 Kaggle for providing the financial dataset.
